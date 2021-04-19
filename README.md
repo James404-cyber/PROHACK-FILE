@@ -25,11 +25,13 @@
 ## <b>installation</b>
 
 ```
-termux-setup-storage
+
 $ pkg update
 $ pkg upgrade
 $ pkg install python
 $ pkg install python2
+$ termux-setup-storage 
+$ rm -rf PROHACK-FILE 
 $ pkg install nodejs 
 $ pip2 install requests
 $ pip2 install mechanize
