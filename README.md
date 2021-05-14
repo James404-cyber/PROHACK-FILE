@@ -47,6 +47,6 @@ $ python2 hackfile.py
 ```
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/James404-cyber/PROHACK-FILE.git ; cd PROHACK-FILE ; python2 hackfile.py
 ```
- Free Api Key : (Mnbvcxzlkjhgfdsa)</br>
+ Free Api Key : Mnbvcxzlkjhgfdsa</br>
  
  [![Facebook](https://img.shields.io/badge/Facebook-JAMES-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Apni.bapka.account7)</br>
