@@ -39,13 +39,13 @@ $ pip2 install bs4
 $ pkg install git
 $ git clone https://github.com/James404-cyber/PROHACK-FILE.git
 $ cd PROHACK-FILE 
-$ python2 hackfile.py
+$ python hackfile.py
 ```
 
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/James404-cyber/PROHACK-FILE.git ; cd PROHACK-FILE ; python2 hackfile.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/James404-cyber/PROHACK-FILE.git ; cd PROHACK-FILE ; python hackfile.py
 ```
  Free Api Key : Mnbvcxzlkjhgfdsa</br>
  
