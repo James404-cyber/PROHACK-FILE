@@ -39,7 +39,7 @@ $ pip2 install bs4
 $ pkg install git
 $ git clone https://github.com/James404-cyber/PROHACK-FILE.git
 $ cd PROHACK-FILE 
-$ python hackfile.py
+$ python2 hackfile.py
 ```
 
 # Single Command 
