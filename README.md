@@ -33,9 +33,10 @@ $ pkg install python2
 $ termux-setup-storage 
 $ rm -rf PROHACK-FILE 
 $ pkg install nodejs 
-$ pip2 install requests
-$ pip2 install mechanize
-$ pip2 install bs4
+$ pip install requests
+$ pip install mechanize
+$ pip install bs4
+$ pip install future      
 $ pkg install git
 $ git clone https://github.com/James404-cyber/PROHACK-FILE.git
 $ cd PROHACK-FILE 
