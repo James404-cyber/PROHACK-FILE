@@ -40,7 +40,8 @@ $ pip install future
 $ pkg install git
 $ git clone https://github.com/James404-cyber/PROHACK-FILE.git
 $ cd PROHACK-FILE 
-$ python/python2 hackfile.py
+$ python install.py
+$ python hackfile.py
 ```
 
 # Single Command 
