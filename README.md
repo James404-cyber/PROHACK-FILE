@@ -42,24 +42,7 @@ $ git clone https://github.com/James404-cyber/PROHACK-FILE.git
 $ cd PROHACK-FILE 
 $ python hackfile.py
 
-2nd Tools       
- $ pkg update
-$ pkg upgrade
-$ pkg install python
-$ pkg install python2
-$ termux-setup-storage 
-$ rm -rf PROHACK-FILE 
-$ pkg install nodejs 
-$ pip install requests
-$ pip install mechanize
-$ pip install bs4
-$ pip install future      
-$ pkg install git
-$ git clone https://github.com/James404-cyber/PROHACK-FILE.git
-$ cd PROHACK-FILE 
-$ dpkg -i PRO*.deb
-$ PRO  
-      
+
 ```
 
 # Single Command 
