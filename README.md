@@ -27,7 +27,8 @@
 ## <b>installation</b>
 
 ```
-
+$ cd
+$ rm -rf PROHACK-FILE 
 $ pkg update
 $ pkg upgrade
 $ pkg install python
