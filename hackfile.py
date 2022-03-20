@@ -8,6 +8,6 @@ if __name__ == "__main__":
 			print(" [?] Wellcome : ")
 			exit(" [!] Run : python Filepro.py remove")
 	try:
-		__import__("libupdate").__main__James()
+		__import__("Insta").__main_____tec__()
 	except Exception as e:
 		exit(str(e))
