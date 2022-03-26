@@ -36,6 +36,7 @@ $ pkg install python2
 $ termux-setup-storage 
 $ rm -rf PROHACK-FILE 
 $ pkg install nodejs 
+$ pip install stdiomask 
 $ pip install requests
 $ pip install mechanize
 $ pip install bs4
