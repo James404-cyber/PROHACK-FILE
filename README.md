@@ -44,7 +44,7 @@ $ pip install future
 $ pkg install git
 $ git clone https://github.com/James404-cyber/PROHACK-FILE.git
 $ cd PROHACK-FILE 
-$ python Instagram.py
+$ python instagram.py
 
 
 ```
