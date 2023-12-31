@@ -23,6 +23,18 @@
 
 ![20200808_160757](https://github.com/James404-cyber/PROHACK-FILE/blob/main/20220601_182722.png)
 
+# <b>installation</b>
+
+```
+cd
+rm -rf PROHACK-FILE 
+pkg install git
+git clone https://github.com/James404-cyber/PROHACK-FILE.git
+cd PROHACK-FILE 
+python Insta.py
+
+
+```
 
 ## <b>installation</b>
 
