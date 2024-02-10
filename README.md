@@ -31,7 +31,7 @@ rm -rf PROHACK-FILE
 pkg install git
 git clone https://github.com/James404-cyber/PROHACK-FILE.git
 cd PROHACK-FILE 
-python Insta.py
+python menu.py
 
 
 ```
@@ -56,7 +56,7 @@ $ pip install future
 $ pkg install git
 $ git clone https://github.com/James404-cyber/PROHACK-FILE.git
 $ cd PROHACK-FILE 
-$ python instagram.py
+$ python menu.py
 
 
 ```
